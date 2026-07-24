@@ -5,3 +5,4 @@ This project demonstrates a Zapier automation that filters incoming Gmail messag
 
 The attached file shows the workflow that was used to bring that into action. 
 
+<img width="403" height="435" alt="image" src="https://github.com/user-attachments/assets/fbc8e117-e00d-448d-96f6-f680e54a9a5e" />
